@@ -7,3 +7,6 @@
 [submodule "Glacsweb-Eagle-Libraries"]
 	path = Glacsweb-Eagle-Libraries
 	url = https://github.com/glacsweb/Glacsweb-Eagle-Libraries.git
+[submodule "PowerPole-Eagle-Libraries"]
+	path = PowerPole-Eagle-Libraries
+	url = https://github.com/feshie/eagle_powerpoles.git
