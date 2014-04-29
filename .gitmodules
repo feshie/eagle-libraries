@@ -4,3 +4,6 @@
 [submodule "SparkFun-Eagle-Libraries"]
 	path = SparkFun-Eagle-Libraries
 	url = https://github.com/feshie/SparkFun-Eagle-Libraries.git
+[submodule "Glacsweb-Eagle-Libraries"]
+	path = Glacsweb-Eagle-Libraries
+	url = https://github.com/glacsweb/Glacsweb-Eagle-Libraries.git
