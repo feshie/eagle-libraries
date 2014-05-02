@@ -10,3 +10,9 @@
 [submodule "PowerPole-Eagle-Libraries"]
 	path = PowerPole-Eagle-Libraries
 	url = https://github.com/feshie/eagle_powerpoles.git
+[submodule "waspmote-Eagle-Library"]
+	path = waspmote-Eagle-Library
+	url = https://github.com/feshie/waspmote-Eagle-Library.git
+[submodule "z1-Eagle-Library"]
+	path = z1-Eagle-Library
+	url = https://github.com/feshie/z1-Eagle-Library.git
